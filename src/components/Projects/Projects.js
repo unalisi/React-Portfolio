@@ -2,9 +2,9 @@ import React from "react";
 import { Container, Row, Col } from "react-bootstrap";
 import ProjectCard from "./ProjectCards";
 import Particle from "../Particle";
-import editor from "../../Assets/Projects/codeEditor.png";
-import chatify from "../../Assets/Projects/chatify.png";
-import bitsOfCode from "../../Assets/Projects/blog.png";
+import s2s from "../../Assets/Projects/s2s.png";
+import vbhttf from "../../Assets/Projects/vb-httf.png";
+import ttsgfm from "../../Assets/Projects/tt-sgfm.png";
 
 function Projects() {
   return (
@@ -15,12 +15,14 @@ function Projects() {
           Üzerinde Çalıştığım <strong className="purple">Projeler </strong>
         </h1>
         <p style={{ color: "white" }}>
-          Katıldığım yarışmalar ve geliştirdiğim projeleri buradan inceleyebilirsiniz.
+          Katıldığım yarışmalar ve geliştirdiğim projeleri buradan
+          inceleyebilirsiniz.
         </p>
         <Row style={{ justifyContent: "center", paddingBottom: "10px" }}>
           <Col md={4} className="project-card">
             <ProjectCard
-              imgPath={chatify}
+              id={3}
+              imgPath={s2s}
               isBlog={false}
               title="Sustain2Solve Sustainability Hackathon"
               description=""
@@ -31,9 +33,10 @@ function Projects() {
 
           <Col md={4} className="project-card">
             <ProjectCard
-              imgPath={bitsOfCode}
+              id={2}
+              imgPath={vbhttf}
               isBlog={false}
-              title="Vakıfbank - Hack to the Future"
+              title="Vakıfbank - Hack to the Future Hackathon"
               description=""
               ghLink=""
               demoLink=""
@@ -42,12 +45,13 @@ function Projects() {
 
           <Col md={4} className="project-card">
             <ProjectCard
-              imgPath={editor}
+              id={1}
+              imgPath={ttsgfm}
               isBlog={false}
               title="Türk Telekom - Siber Güvenlik Fikir Maratonu"
               description=""
               ghLink=""
-              demoLink=""              
+              demoLink=""
             />
           </Col>
         </Row>
