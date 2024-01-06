@@ -1,0 +1,23 @@
+{
+    "projects": [
+      {
+        "id": 1,
+        "title": "Türk Telekom Siber Güvenlik Fikir Maratonu",
+        "description": "Türkiye Açık Kaynak Platformu ve Türk Telekom öncülüğünde düzenlenen Siber Güvenlik Fikir Maratonu'nda, benimde içinde bulunduğum Unicorn takımı olarak BioAuth projemizle 1. olduk. Diğer ekip arkadaşlarımız ise Eternal takımı olarak DrawPass projeleri ile 2. oldular. Bu projede fikir aşamasından itibaren asla pes etmeden birbiriyle uyumlu bir şekilde sonuna kadar çalışan, mükemmel ekip ruhuna sahip tüm arkadaşlarıma teşekkür ediyorum 🎉🎉🎉",
+        "image": "/src/Assets/home-bg.jpg"
+      },
+      {
+        "id": 2,
+        "title": "Vakıfbank Hack to the Future Hackathon",
+        "description": "Core Team ekibi olarak Vakıfbank Hack to the Future yarışmasında En Global Çözüm kategorisini kazanarak süreci tamamladık 🏆\n40 takım arasından jürilerimize sunum yapmaya hak kazanan 12 takımdan biri olduk ve yapay zeka destekli davranışsal biyometrik doğrulama güvenlik sistemi olan BioAuth projemizi tanıtarak “En Global Çözüm” kategorisinde ödülün sahibi olduk. 4-5 Şubat tarihlerinde 48 saat boyunca iş fikrimiz üzerine mentor desteği alarak fikrimizi geliştirip ekip arkadaşlarım Emre Değirmenci ve Ceren Yurtlu ile harika bir iş çıkardık. Ülkemizde yaşanan deprem felaketinden dolayı ertelenen yarışma sürecinin finalini 28 Nisan tarihinde İstanbul'da tamamladık. Bu süreçte bizi her zaman destekleyen, ilgilenen mentorümüz OĞUZHAN SARITAŞ'a ve diğer mentorlerimize sonsuz teşekkürler.\nBizi bu değerli ödüle layık gören Rota Yayınları Kurucusu ve Yönetim Kurulu Başkanı Marketing Türkiye Genel Yayın Yönetmeni Sayın Günseli Özen, Yıldız Teknik Üniversitesi Rektörü Sayın Tamer Yılmaz, Digital Advice Lab Kurucusu Sayın Berk Kuşaksız, VakıfBank Genel Müdür Yardımcısı Sayın Metin Recep ZAFER ve VakıfBank Genel Müdür Yardımcısı Sayın Ferkan MERDAN teşekkür ederiz.\nDolu dolu geçen bir yarışma sürecinde yanımızda olan Viveka ve VakıfBank Hack to the Future ekibine sonsuz teşekkürlerimizi sunuyoruz.",
+        "image": "/src/Assets/Projects/vb-httf.png"
+      },
+      {
+        "id": 3,
+        "title": "Sustain2Solve Sustainability Hackathon",
+        "description": "Unicorn ekibi olarak Sustain2Solve ekibinin Sürdürülebilirlik üzerine düzenlediği Hackathon'da 3. olarak süreci tamamladık🥳#Bendevarım diyerek başladığımız bu yolda onlinedan, İstanbul Planlama Ajansı'na kadar olan süreci kapsayan projemiz WetFoot'u tasarladık ve geliştirdik. Bu süreçte etkinliği düzenleyen başta Mehmet Erka Akbulut olmak üzere Mehmet Süha KAYA, Hale Yigit, Beyzanur Aydın, Batuhan Akkaya, Gizem Bozkurt, Alper Bozkurt, Hüseyin Başpınar, Mariye BUDAK, Furkan Can Yorulmaz, Zehra Melike Çiçek, Aybüke Verda Yılmaz ve Yasemin Tuğba Algın'a teşekkürlerimi iletiyorum. Özellikle projemizin son halini almasını sağlayan başta Derya Polat, Deniz Ayaroğlu ve Elif Sabreden olmak üzere değerli mentorlerimiz Deniz Baran BEK, Duygu Tekin, Fatma Aktaş'a bu süreçteki desteklerinden dolayı teşekkür ederim. Süreç boyunca benimle birlikte çalışan takım arkadaşım Zeynep Nevra KURT'a proje boyunca verdiği emekler için ve süreç boyunca bizi yalnız bırakmayan, bizim için hiçbir desteği esirgemeyen sevgili badimiz Rumeysa Çavuş'a ayrıca teşekkürler 🙏🏻 Sustain2Solve ile birlikte geçen bu iki haftalık süreç güzel bir deneyim kazanarak ve bir başarıya daha imza atarak son buldu. Bundan sonraki süreçte görüşmek üzere!",
+        "image": "/src/Assets/home-bg.jpg"
+      }
+    ]
+  }
+  

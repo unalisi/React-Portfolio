@@ -1,0 +1,22 @@
+{
+    "projects": [
+        {
+            "id": 1,
+            "title": "Türk Telekom Siber Güvenlik Fikir Maratonu",
+            "description": "Proje 1 detaylı açıklama burada yer alacak.",
+            "image": "https://example.com/proje1_image.jpg"
+        },
+        {
+            "id": 2,
+            "title": "Vakıfbank Hack to the Future Hackathon",
+            "description": "Proje 2 detaylı açıklama burada yer alacak.",
+            "image": "https://example.com/proje2_image.jpg"
+        },
+        {
+            "id": 3,
+            "title": "Sustain2Solve Sustainability Hackathon",
+            "description": "Proje 3 detaylı açıklama burada yer alacak.",
+            "image": "https://example.com/proje3_image.jpg"
+        }
+    ]
+}
